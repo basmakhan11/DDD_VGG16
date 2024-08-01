@@ -14,3 +14,12 @@ To develop an efficient and accurate model for distracted driver detection that 
 
 ## Limitations:
 The model processes the entire image frame, which may include irrelevant features, leading to potential inefficiencies. Future work could focus on optimizing the model to emphasize local features of interest, further reducing computational costs.
+
+## References:
+[1] National Highway Traffic Safety Administration, 2010. Fatality analysis reporting system (FARS) 
+encyclopedia. FARS Data Table Table: 2016.
+[2] Mahajan, K., Velaga, N. R., Kumar, A., & Choudhary, P. (2019). Effects of driver sleepiness and fatigue on 
+violations among truck drivers in India. International journal of injury control and safety promotion, 26(4), 
+412-422.
+[3] Abouelnaga, Y., Eraqi, H. M., & Moustafa, M. N. (2017). Real-time distracted driver posture 
+classification. arXiv preprint arXiv:1706.09498.
